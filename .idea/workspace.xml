@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e77cfd-f790-4423-b8a8-6557cf9b521b" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode_2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/day1/part1_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_1/day1.ts" afterDir="false" />
-    </list>
+    <list default="true" id="c7e77cfd-f790-4423-b8a8-6557cf9b521b" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +55,7 @@
       <updated>1701445163438</updated>
       <workItem from="1701445164697" duration="76000" />
       <workItem from="1701445748307" duration="1332000" />
-      <workItem from="1701480695070" duration="84000" />
+      <workItem from="1701480695070" duration="148000" />
     </task>
     <servers />
   </component>
